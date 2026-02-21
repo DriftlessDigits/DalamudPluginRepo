@@ -1,6 +1,30 @@
 [
     {
         "Author": "DriftlessDigits",
+        "Name": "Scrooge",
+        "Punchline": "A gil saved is a gil earned.",
+        "Description": "\"You might say that everythin's for sale here in Ul'dah \u2014 as long as you've got the gil.\" \u2014 Momodi Modi",
+        "Changelog": "",
+        "InternalName": "Scrooge",
+        "AssemblyVersion": "2.0.0.0",
+        "RepoUrl": "https://github.com/DriftlessDigits/Scrooge",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Utility"
+        ],
+        "DalamudApiLevel": 14,
+        "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/Scrooge/images/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.0.0.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.0.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.0.0.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1771714458"
+    },
+    {
+        "Author": "DriftlessDigits",
         "Name": "Dagobert",
         "Punchline": "A gil saved is a gil earned.",
         "Description": "\"You might say that everythin's for sale here in Ul'dah \u2014 as long as you've got the gil.\" \u2014 Momodi Modi",
@@ -22,7 +46,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/DriftlessDigits/Dagobert/releases/download/v1.10.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Dagobert/releases/download/v1.10.0.0/latest.zip",
-        "DownloadCount": 9512,
+        "DownloadCount": 9539,
         "LastUpdate": "1771651835"
     }
 ]
