@@ -8,6 +8,6 @@ Add the following repo to your Dalamud custom plugin repositories:
 
 ### Scrooge
 
-A gil saved is a gil earned. Automatically penny pinches all your market board items.
+A gil saved is a gil earned.
 
 https://github.com/DriftlessDigits/Scrooge
