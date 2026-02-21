@@ -1,0 +1,22 @@
+{
+  "Author": "DriftlessDigits",
+  "Name": "Scrooge",
+  "InternalName": "Scrooge",
+  "AssemblyVersion": "2.0.0.0",
+  "Description": "\"You might say that everythin's for sale here in Ul'dah — as long as you've got the gil.\" — Momodi Modi",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/DriftlessDigits/Scrooge",
+  "Tags": [
+    "Utility"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/Scrooge/images/icon.png",
+  "Punchline": "A gil saved is a gil earned.",
+  "Changelog": "",
+  "AcceptsFeedback": true
+}
