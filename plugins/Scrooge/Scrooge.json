@@ -2,7 +2,7 @@
   "Author": "DriftlessDigits",
   "Name": "Scrooge",
   "InternalName": "Scrooge",
-  "AssemblyVersion": "2.1.1.0",
+  "AssemblyVersion": "2.1.2.0",
   "Description": "\"You might say that everythin's for sale here in Ul'dah — as long as you've got the gil.\" — Momodi Modi",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/DriftlessDigits/Scrooge",
@@ -17,6 +17,6 @@
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/Scrooge/images/icon.png",
   "Punchline": "A gil saved is a gil earned.",
-  "Changelog": "Added Pinch Run Summary — run start/end markers with timestamps and a per-run summary showing items adjusted, skipped, outliers detected, and total gil on market.",
+  "Changelog": "Added Pinch Run Timer — countdown ETA during pinch runs with progress tracking, final elapsed time on completion, and a persisted per-item average for instant estimates.",
   "AcceptsFeedback": true
 }
