@@ -4,9 +4,9 @@
         "Name": "Scrooge",
         "Punchline": "A gil saved is a gil earned.",
         "Description": "\"You might say that everythin's for sale here in Ul'dah \u2014 as long as you've got the gil.\" \u2014 Momodi Modi",
-        "Changelog": "Added Pinch Run Summary \u2014 run start/end markers with timestamps and a per-run summary showing items adjusted, skipped, outliers detected, and total gil on market.",
+        "Changelog": "Added Pinch Run Timer \u2014 countdown ETA during pinch runs with progress tracking, final elapsed time on completion, and a persisted per-item average for instant estimates.",
         "InternalName": "Scrooge",
-        "AssemblyVersion": "2.1.1.0",
+        "AssemblyVersion": "2.1.2.0",
         "RepoUrl": "https://github.com/DriftlessDigits/Scrooge",
         "ApplicableVersion": "any",
         "Tags": [
@@ -15,12 +15,12 @@
         "DalamudApiLevel": 14,
         "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/Scrooge/images/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.1.1.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.1.2.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.1.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.1.1.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.1.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.1.2.0/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1771903114"
+        "LastUpdate": "1772160272"
     }
 ]
