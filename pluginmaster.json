@@ -4,9 +4,9 @@
         "Name": "Scrooge",
         "Punchline": "A gil saved is a gil earned.",
         "Description": "\"You might say that everythin's for sale here in Ul'dah \u2014 as long as you've got the gil.\" \u2014 Momodi Modi",
-        "Changelog": "Added Pricing Guards \u2014 optional max price increase cap to prevent overpricing when competition delists, and relative outlier window scaling for thin markets.",
+        "Changelog": "Added Pricing Guards \u2014 optional max price increase cap to prevent overpricing when competition delists, and relative outlier window scaling for thin markets. Fixed price increase cap firing on new listings via post-pinch hotkey.",
         "InternalName": "Scrooge",
-        "AssemblyVersion": "2.1.3.0",
+        "AssemblyVersion": "2.1.3.1",
         "RepoUrl": "https://github.com/DriftlessDigits/Scrooge",
         "ApplicableVersion": "any",
         "Tags": [
@@ -15,12 +15,12 @@
         "DalamudApiLevel": 14,
         "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/Scrooge/images/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.1.3.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.1.3.1/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.1.3.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.1.3.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.1.3.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.1.3.1/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1772998496"
+        "LastUpdate": "1773001087"
     }
 ]
