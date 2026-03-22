@@ -4,9 +4,9 @@
         "Name": "Scrooge",
         "Punchline": "A gil saved is a gil earned.",
         "Description": "\"You might say that everythin's for sale here in Ul'dah \u2014 as long as you've got the gil.\" \u2014 Momodi Modi",
-        "Changelog": "SQLite replaces JSON storage for gil tracking data. ConfigWindow reorganized into tabs. Random money quote header in settings. HQ icon in Gil Dashboard.",
+        "Changelog": "Pinch Run Log overhaul \u2014 outcome-based entries with collapsible retainer sections. Gil Dashboard \u2014 3-level category breakdown, new Retainers summary tab.",
         "InternalName": "Scrooge",
-        "AssemblyVersion": "2.2.1.0",
+        "AssemblyVersion": "2.2.2.0",
         "RepoUrl": "https://github.com/DriftlessDigits/Scrooge",
         "ApplicableVersion": "any",
         "Tags": [
@@ -15,12 +15,12 @@
         "DalamudApiLevel": 14,
         "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/Scrooge/images/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.2.1.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.2.2.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.2.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.2.1.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.2.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.2.2.0/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1774102667"
+        "LastUpdate": "1774158256"
     }
 ]
