@@ -4,9 +4,9 @@
         "Name": "Scrooge",
         "Punchline": "A gil saved is a gil earned.",
         "Description": "\"You might say that everythin's for sale here in Ul'dah \u2014 as long as you've got the gil.\" \u2014 Momodi Modi",
-        "Changelog": "Fixed gil tracking \u2014 listings and market snapshots now capture correctly with post-adjustment prices. Added sortable column headers to Gil Dashboard tables.",
+        "Changelog": "Added Hawk Run vendor selling \u2014 Always Vendor list, auto-vendor for below-floor items, inventory overlays, and Hawk Settings config tab. Refactored AutoPinch into 5 focused classes.",
         "InternalName": "Scrooge",
-        "AssemblyVersion": "2.2.2.1",
+        "AssemblyVersion": "2.3.0.0",
         "RepoUrl": "https://github.com/DriftlessDigits/Scrooge",
         "ApplicableVersion": "any",
         "Tags": [
@@ -15,12 +15,12 @@
         "DalamudApiLevel": 14,
         "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/Scrooge/images/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.2.2.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.3.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.2.2.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.2.2.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.3.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.3.0.0/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1774211627"
+        "LastUpdate": "1774734242"
     }
 ]
