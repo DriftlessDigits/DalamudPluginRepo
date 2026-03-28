@@ -2,7 +2,7 @@
   "Author": "DriftlessDigits",
   "Name": "Scrooge",
   "InternalName": "Scrooge",
-  "AssemblyVersion": "2.2.2.1",
+  "AssemblyVersion": "2.3.0.0",
   "Description": "\"You might say that everythin's for sale here in Ul'dah — as long as you've got the gil.\" — Momodi Modi",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/DriftlessDigits/Scrooge",
@@ -17,6 +17,6 @@
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/Scrooge/images/icon.png",
   "Punchline": "A gil saved is a gil earned.",
-  "Changelog": "Fixed gil tracking — listings and market snapshots now capture correctly with post-adjustment prices. Added sortable column headers to Gil Dashboard tables.",
+  "Changelog": "Added Hawk Run vendor selling — Always Vendor list, auto-vendor for below-floor items, inventory overlays, and Hawk Settings config tab. Refactored AutoPinch into 5 focused classes.",
   "AcceptsFeedback": true
 }
