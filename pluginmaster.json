@@ -4,9 +4,9 @@
         "Name": "Scrooge",
         "Punchline": "A gil saved is a gil earned.",
         "Description": "\"You might say that everythin's for sale here in Ul'dah \u2014 as long as you've got the gil.\" \u2014 Momodi Modi",
-        "Changelog": "Fix FOREIGN KEY error in gil tracking pruner that disabled GilTrack on startup once snapshots aged past 30 days.",
+        "Changelog": "Added Line Go Up \u2014 gil tracking expansion: quest/duty/FATE rewards, repair/FC chest/custom delivery/wondrous tails captures, passive retainer sale capture (no AutoPinch required), chat catch-all safety net, category hover tooltips, and a new dashboard with gil history chart, filterable transactions, daily changes, and earned-vs-spent breakdown.",
         "InternalName": "Scrooge",
-        "AssemblyVersion": "2.4.1.1",
+        "AssemblyVersion": "2.5.0.0",
         "RepoUrl": "https://github.com/DriftlessDigits/Scrooge",
         "ApplicableVersion": "any",
         "Tags": [
@@ -15,12 +15,12 @@
         "DalamudApiLevel": 14,
         "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/Scrooge/images/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.4.1.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.5.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.4.1.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.4.1.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.5.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.5.0.0/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1776215640"
+        "LastUpdate": "1776551633"
     }
 ]
