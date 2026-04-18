@@ -2,7 +2,7 @@
   "Author": "DriftlessDigits",
   "Name": "Scrooge",
   "InternalName": "Scrooge",
-  "AssemblyVersion": "2.4.1.1",
+  "AssemblyVersion": "2.5.0.0",
   "Description": "\"You might say that everythin's for sale here in Ul'dah — as long as you've got the gil.\" — Momodi Modi",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/DriftlessDigits/Scrooge",
@@ -17,6 +17,6 @@
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/Scrooge/images/icon.png",
   "Punchline": "A gil saved is a gil earned.",
-  "Changelog": "Fix FOREIGN KEY error in gil tracking pruner that disabled GilTrack on startup once snapshots aged past 30 days.",
+  "Changelog": "Added Line Go Up — gil tracking expansion: quest/duty/FATE rewards, repair/FC chest/custom delivery/wondrous tails captures, passive retainer sale capture (no AutoPinch required), chat catch-all safety net, category hover tooltips, and a new dashboard with gil history chart, filterable transactions, daily changes, and earned-vs-spent breakdown.",
   "AcceptsFeedback": true
 }
