@@ -6,21 +6,21 @@
         "Description": "\"You might say that everythin's for sale here in Ul'dah \u2014 as long as you've got the gil.\" \u2014 Momodi Modi",
         "Changelog": "Bugfixes: vendor sales no longer double-log as catchall rows (Block/Unblock added around the sell action in both Hawk and Triage paths); a one-shot migration cleans up existing duplicate catchall rows. Retainer Gil in the Portfolio summary survives zone changes (carries forward from the last retainer-wallet snapshot instead of zeroing on teleport).",
         "InternalName": "Scrooge",
-        "AssemblyVersion": "2.5.0.1",
+        "AssemblyVersion": "2.5.0.2",
         "RepoUrl": "https://github.com/DriftlessDigits/Scrooge",
         "ApplicableVersion": "any",
         "Tags": [
             "Utility"
         ],
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/Scrooge/images/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.5.0.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.5.0.2/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.5.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.5.0.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.5.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v2.5.0.2/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1776641499"
+        "LastUpdate": "1777600569"
     }
 ]
