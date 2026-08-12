@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BalambGarden/0.1.0.0": {
+        "dependencies": {
+          "ECommons": "3.2.0.3-stg"
+        },
+        "runtime": {
+          "BalambGarden.dll": {}
+        }
+      },
+      "ECommons/3.2.0.3-stg": {
+        "runtime": {
+          "ECommons.dll": {
+            "assemblyVersion": "3.2.0.3",
+            "fileVersion": "3.2.0.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BalambGarden/0.1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ECommons/3.2.0.3-stg": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

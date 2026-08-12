@@ -11,3 +11,9 @@ Add the following repo to your Dalamud custom plugin repositories:
 A gil saved is a gil earned.
 
 https://github.com/DriftlessDigits/Scrooge
+
+### Balamb Garden
+
+Your garden, tended. SeeDs, watered.
+
+https://github.com/DriftlessDigits/BalambGarden

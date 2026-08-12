@@ -1,0 +1,23 @@
+{
+  "Author": "DriftlessDigits",
+  "Name": "Balamb Garden",
+  "InternalName": "BalambGarden",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "Gardening companion (early preview): stand by your garden and water a whole patch - or every patch in reach - with one button, at a patient human pace. Keeps a ledger of what's planted where and when you last watered it. /garden to open. Timers and more on the way.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/DriftlessDigits/BalambGarden",
+  "Tags": [
+    "Utility",
+    "gardening",
+    "housing"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/BalambGarden/images/icon.png",
+  "Punchline": "Your garden, tended. SeeDs, watered.",
+  "AcceptsFeedback": true
+}
