@@ -27,9 +27,10 @@
         "Author": "DriftlessDigits",
         "Name": "Balamb Garden",
         "Punchline": "Your garden, tended. SeeDs, watered.",
-        "Description": "Gardening companion (early preview): stand by your garden and water a whole patch - or every patch in reach - with one button, at a patient human pace. Keeps a ledger of what's planted where and when you last watered it. /garden to open. Timers and more on the way.",
+        "Description": "Gardening companion: stand by your garden and water, harvest, or replant a whole patch - or every ripe pot in the house - with one button, at a patient human pace. Keeps a ledger of what's planted where, when you watered it, and when it will be ripe (down to the afternoon). Tips watch your crossbreed pipelines and say when a chain is about to starve. /garden to open.",
+        "Changelog": "One-press 'Replant ripe' for patches and flowerpots (same plant back in, seeds and soil from your bags); full harvest+replant cycles; ripe clocks down to the afternoon; flowerpot flowers first-class (seeds, 24h clocks, wilt warnings); state-aware pipeline tips; auto-filled planting.",
         "InternalName": "BalambGarden",
-        "AssemblyVersion": "0.1.0.0",
+        "AssemblyVersion": "0.2.0.0",
         "RepoUrl": "https://github.com/DriftlessDigits/BalambGarden",
         "ApplicableVersion": "any",
         "Tags": [
@@ -40,12 +41,12 @@
         "DalamudApiLevel": 15,
         "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/BalambGarden/images/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/DriftlessDigits/BalambGarden/releases/download/v0.1.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/DriftlessDigits/BalambGarden/releases/download/v0.2.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/DriftlessDigits/BalambGarden/releases/download/v0.1.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/BalambGarden/releases/download/v0.1.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/DriftlessDigits/BalambGarden/releases/download/v0.2.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/BalambGarden/releases/download/v0.2.0.0/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1786498379"
+        "LastUpdate": "1786916770"
     }
 ]
