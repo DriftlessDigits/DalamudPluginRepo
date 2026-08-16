@@ -2,8 +2,8 @@
   "Author": "DriftlessDigits",
   "Name": "Balamb Garden",
   "InternalName": "BalambGarden",
-  "AssemblyVersion": "0.1.0.0",
-  "Description": "Gardening companion (early preview): stand by your garden and water a whole patch - or every patch in reach - with one button, at a patient human pace. Keeps a ledger of what's planted where and when you last watered it. /garden to open. Timers and more on the way.",
+  "AssemblyVersion": "0.2.0.0",
+  "Description": "Gardening companion: stand by your garden and water, harvest, or replant a whole patch - or every ripe pot in the house - with one button, at a patient human pace. Keeps a ledger of what's planted where, when you watered it, and when it will be ripe (down to the afternoon). Tips watch your crossbreed pipelines and say when a chain is about to starve. /garden to open.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/DriftlessDigits/BalambGarden",
   "Tags": [
@@ -19,5 +19,6 @@
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/BalambGarden/images/icon.png",
   "Punchline": "Your garden, tended. SeeDs, watered.",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "Changelog": "One-press 'Replant ripe' for patches and flowerpots (same plant back in, seeds and soil from your bags); full harvest+replant cycles; ripe clocks down to the afternoon; flowerpot flowers first-class (seeds, 24h clocks, wilt warnings); state-aware pipeline tips; auto-filled planting."
 }
