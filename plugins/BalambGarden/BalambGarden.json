@@ -2,7 +2,7 @@
   "Author": "DriftlessDigits",
   "Name": "Balamb Garden",
   "InternalName": "BalambGarden",
-  "AssemblyVersion": "0.2.0.1",
+  "AssemblyVersion": "0.2.0.2",
   "Description": "Gardening companion: stand by your garden and water, harvest, or replant a whole patch - or every ripe pot in the house - with one button, at a patient human pace. Keeps a ledger of what's planted where, when you watered it, and when it will be ripe (down to the afternoon). Tips watch your crossbreed pipelines and say when a chain is about to starve. /garden to open.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/DriftlessDigits/BalambGarden",
@@ -20,5 +20,5 @@
   "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/BalambGarden/images/icon.png",
   "Punchline": "Your garden, tended. SeeDs, watered.",
   "AcceptsFeedback": true,
-  "Changelog": "Field fixes: Royal Kukuru Bean tend receipts now log to the ledger correctly, and the last bed of a replant run no longer shows empty until the next re-read."
+  "Changelog": "Ripe windows now speak from where you stand: a window already open reads 'any time now, by Tue morning' instead of leading with a day that's already past. Plus the v0.2.0.1 field fixes (Kukuru Bean receipts, last-bed display settle)."
 }
