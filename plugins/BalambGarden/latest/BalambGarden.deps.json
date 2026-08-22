@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "BalambGarden/0.2.0.2": {
+      "BalambGarden/0.2.1.0": {
         "dependencies": {
           "BalambGarden.Engine": "1.0.0",
           "ECommons": "3.2.0.3-stg"
@@ -34,7 +34,7 @@
     }
   },
   "libraries": {
-    "BalambGarden/0.2.0.2": {
+    "BalambGarden/0.2.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

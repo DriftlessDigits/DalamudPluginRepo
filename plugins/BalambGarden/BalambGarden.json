@@ -2,7 +2,7 @@
   "Author": "DriftlessDigits",
   "Name": "Balamb Garden",
   "InternalName": "BalambGarden",
-  "AssemblyVersion": "0.2.0.2",
+  "AssemblyVersion": "0.2.1.0",
   "Description": "Gardening companion: stand by your garden and water, harvest, or replant a whole patch - or every ripe pot in the house - with one button, at a patient human pace. Keeps a ledger of what's planted where, when you watered it, and when it will be ripe (down to the afternoon). Tips watch your crossbreed pipelines and say when a chain is about to starve. /garden to open.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/DriftlessDigits/BalambGarden",
@@ -20,5 +20,5 @@
   "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/BalambGarden/images/icon.png",
   "Punchline": "Your garden, tended. SeeDs, watered.",
   "AcceptsFeedback": true,
-  "Changelog": "Ripe windows now speak from where you stand: a window already open reads 'any time now, by Tue morning' instead of leading with a day that's already past. Plus the v0.2.0.1 field fixes (Kukuru Bean receipts, last-bed display settle)."
+  "Changelog": "One press for the pots: Water All waters every pot in reach that can still drink (ripe pots sit out, and the count says so). Tend All now names the patches it covers instead of counting them. New Teleport button on each estate tab takes you there when the estate is on your teleport list - gil cost on hover, never mid-chain."
 }
