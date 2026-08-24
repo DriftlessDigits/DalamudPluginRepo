@@ -2,7 +2,7 @@
   "Author": "DriftlessDigits",
   "Name": "Balamb Garden",
   "InternalName": "BalambGarden",
-  "AssemblyVersion": "0.2.2.0",
+  "AssemblyVersion": "0.2.3.0",
   "Description": "Gardening companion: stand by your garden and water, harvest, or replant a whole patch - or every ripe pot in the house - with one button, at a patient human pace. Keeps a ledger of what's planted where, when you watered it, and when it will be ripe (down to the afternoon). Tips watch your crossbreed pipelines and say when a chain is about to starve. /garden to open.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/DriftlessDigits/BalambGarden",
@@ -19,6 +19,6 @@
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/BalambGarden/images/icon.png",
   "Punchline": "Your garden, tended. SeeDs, watered.",
-  "Changelog": "The garden now shows when everything was last watered: a new Watered column on every bed and pot (hover for the exact time). And watering by hand finally counts - tend, water, or fertilize without pressing any plugin buttons and the clocks still update. Fertilizing is remembered too, so 'did I already feed this?' has an answer.",
+  "Changelog": "Hover the Watered column to see when a bed or pot was last fertilized - and whether the game will let you feed it again yet. Only shows up once the plugin has actually seen a feeding, by button or by hand.",
   "AcceptsFeedback": true
 }
