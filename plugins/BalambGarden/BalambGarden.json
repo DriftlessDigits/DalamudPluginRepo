@@ -2,7 +2,7 @@
   "Author": "DriftlessDigits",
   "Name": "Balamb Garden",
   "InternalName": "BalambGarden",
-  "AssemblyVersion": "0.2.3.0",
+  "AssemblyVersion": "0.2.4.0",
   "Description": "Gardening companion: stand by your garden and water, harvest, or replant a whole patch - or every ripe pot in the house - with one button, at a patient human pace. Keeps a ledger of what's planted where, when you watered it, and when it will be ripe (down to the afternoon). Tips watch your crossbreed pipelines and say when a chain is about to starve. /garden to open.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/DriftlessDigits/BalambGarden",
@@ -19,6 +19,6 @@
   "ImageUrls": [],
   "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/BalambGarden/images/icon.png",
   "Punchline": "Your garden, tended. SeeDs, watered.",
-  "Changelog": "Hover the Watered column to see when a bed or pot was last fertilized - and whether the game will let you feed it again yet. Only shows up once the plugin has actually seen a feeding, by button or by hand.",
+  "Changelog": "Harvests count now: whether a button did the picking or you did, the window sees it and the pot reads empty right away - no more rows stuck saying ripe after the crop is in your bag. Ripe pots stopped nagging 'water now' (the game won't let you water a finished crop anyway). Water All and Tend All skip anything ripe or empty, so the rounds are quicker and the button counts only what it will actually touch. And walking into a house no longer flashes every pot amber while the game catches up.",
   "AcceptsFeedback": true
 }
