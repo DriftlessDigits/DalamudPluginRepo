@@ -28,9 +28,9 @@
         "Name": "Balamb Garden",
         "Punchline": "Your garden, tended. SeeDs, watered.",
         "Description": "Gardening companion: stand by your garden and water, harvest, or replant a whole patch - or every ripe pot in the house - with one button, at a patient human pace. Keeps a ledger of what's planted where, when you watered it, and when it will be ripe (down to the afternoon). Tips watch your crossbreed pipelines and say when a chain is about to starve. /garden to open.",
-        "Changelog": "Harvests count now: whether a button did the picking or you did, the window sees it and the pot reads empty right away - no more rows stuck saying ripe after the crop is in your bag. Ripe pots stopped nagging 'water now' (the game won't let you water a finished crop anyway). Water All and Tend All skip anything ripe or empty, so the rounds are quicker and the button counts only what it will actually touch. And walking into a house no longer flashes every pot amber while the game catches up.",
+        "Changelog": "Household sync is here: type your shared garden phrase in the settings (both installs, same phrase) and the plugin quietly shares watering and harvest news between you. If someone else in the house watered a bed, its hover says so - 'watered 2:05pm - external' - so nobody double-waters and nothing gets missed. No accounts, no setup beyond the phrase; leave it empty and the plugin never touches the network. Also: the time-remaining estimate in the run window now settles instead of sawtoothing.",
         "InternalName": "BalambGarden",
-        "AssemblyVersion": "0.2.4.0",
+        "AssemblyVersion": "0.3.0.0",
         "RepoUrl": "https://github.com/DriftlessDigits/BalambGarden",
         "ApplicableVersion": "any",
         "Tags": [
@@ -41,12 +41,12 @@
         "DalamudApiLevel": 15,
         "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/BalambGarden/images/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/DriftlessDigits/BalambGarden/releases/download/v0.2.4.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/DriftlessDigits/BalambGarden/releases/download/v0.3.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/DriftlessDigits/BalambGarden/releases/download/v0.2.4.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/BalambGarden/releases/download/v0.2.4.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/DriftlessDigits/BalambGarden/releases/download/v0.3.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/BalambGarden/releases/download/v0.3.0.0/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1787971521"
+        "LastUpdate": "1788101378"
     }
 ]
