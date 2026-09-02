@@ -4,9 +4,9 @@
         "Name": "Scrooge",
         "Punchline": "A gil saved is a gil earned.",
         "Description": "\"You might say that everythin's for sale here in Ul'dah \u2014 as long as you've got the gil.\" \u2014 Momodi Modi",
-        "Changelog": "Desynth tune-up. Skill-up colors now match the game exactly - including capped skills reading green, so a maxed class never inflates a melt score. Fish and furnishings join routing like any other desynthable, but only ever melt for a skill-up, never for material value. Stack desynths count every attempt in progress bars and totals (\"2 selected - 7 desynths\"). The sitrep gains a desynth skill readout for all eight classes. And when a skill-up outbids the market, the melt reason names the exact price it beat.",
+        "Changelog": "Melt reaches the whole pile. Items routed to melt that the desynthesis window hides behind its category filter now appear in the preview as their own rows, tagged hidden; check them and the run cycles the filter, melts exactly what you checked, and puts the filter back. The button counts everything it will spend. Materiel Container pulls now bank whichever way the game orders the bag change and the chat line, and a pull you kept instead of selling can be marked as such. Seat numbers read as price rank - matching the cheapest ask still counts as first.",
         "InternalName": "Scrooge",
-        "AssemblyVersion": "3.0.1.0",
+        "AssemblyVersion": "3.0.2.0",
         "RepoUrl": "https://github.com/DriftlessDigits/Scrooge",
         "ApplicableVersion": "any",
         "Tags": [
@@ -15,13 +15,13 @@
         "DalamudApiLevel": 15,
         "IconUrl": "https://raw.githubusercontent.com/DriftlessDigits/DalamudPluginRepo/main/plugins/Scrooge/images/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v3.0.1.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/DriftlessDigits/Scrooge/releases/download/v3.0.2.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v3.0.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v3.0.1.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/DriftlessDigits/Scrooge/releases/download/v3.0.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/DriftlessDigits/Scrooge/releases/download/v3.0.2.0/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1788014693"
+        "LastUpdate": "1788310859"
     },
     {
         "Author": "DriftlessDigits",
